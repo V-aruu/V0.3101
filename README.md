@@ -1,6 +1,6 @@
 # Boxed Tri-Zero Plus - V0.3101 -
 
-![Boxed Tri-Zero Plus](images/3.jpg | width=800)
+![Boxed Tri-Zero Plus](images/3.jpg)
 
 This is a repo regrouping infos about my Tri-Zero build, in plus size (170mm).
 
