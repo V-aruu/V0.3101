@@ -4,6 +4,8 @@
 
 This is a repo regrouping infos about my Tri-Zero build, in plus size (170mm).
 
+[Serial request](https://www.reddit.com/r/voroncorexy/comments/16z4vky/boxedtrizeroplus_v0_hexxotest/)
+
 Config :
  - Voron [Tri-Zero](https://github.com/zruncho3d/tri-zero) mod by [zruncho3d](https://github.com/zruncho3d)
  - With [BoxZero](https://github.com/zruncho3d/BoxZero) mod
